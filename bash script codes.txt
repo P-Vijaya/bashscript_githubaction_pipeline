@@ -32,3 +32,7 @@ write all libraries inside requirements.txt
 
 in .gitignore file write the file which you do not want to include so writing venv/*
 
+create a github repository and push the code into github.
+
+in folder structure , put the stage 4 model evaluation which is outside into the app src folder.
+
